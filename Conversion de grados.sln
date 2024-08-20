@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Conversion de grados", "Conversion de grados\Conversion de grados.pyproj", "{8709AAD4-E85D-4290-A6CD-5A5B4635E51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8709AAD4-E85D-4290-A6CD-5A5B4635E51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8709AAD4-E85D-4290-A6CD-5A5B4635E51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC403520-A2C3-4829-B3AA-9B851F2FD1A6}
+	EndGlobalSection
+EndGlobal
